@@ -1,1 +1,1 @@
-# Coding-Ninjas-Badges
+# Coding-Ninjas-Certificates
